@@ -1,0 +1,161 @@
+.body{
+  display: flex;
+}
+.nav1{
+    color: rgb(224, 222, 222);
+}
+.heyk{
+    cursor: pointer;
+}
+.heyk:hover{
+    opacity: 0.5s;
+color: white;
+}
+.h:hover{
+    opacity: 0.5s;
+color: white;
+}
+
+
+url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap');
+
+body{
+
+  background-color: #eee;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #495057;
+    background-color: transparent;
+    border-color: transparent;
+    border-bottom: 3px solid #000;
+     
+}
+
+.nav-tabs>li>a{
+
+  text-transform: uppercase;
+  color: #000;
+      font-weight: 500;
+}
+
+.nav-tabs .nav-link:hover {
+    border-color: transparent;
+    border-bottom: 3px solid #000
+}
+
+.navbar{
+
+      border-bottom: 1px solid #00000012;
+      padding-top: 0rem !important; 
+      padding-bottom: 0rem !important;
+          background-color: #ffffff!important;
+}
+
+.navbar-brand{
+
+  font-size: 24px;
+  text-transform: uppercase;
+  font-family: 'Allerta Stencil', sans-serif;
+  font-weight: 500;
+}
+
+.nav-tabs {
+    border-bottom: none;
+}
+
+.card{
+
+  border:none;
+ 
+}
+
+.card-body {
+    flex: 1 1 auto;
+    padding: 10px;
+}
+
+.card-text{
+
+  font-size: 13px;
+}
+
+.guarantee{
+
+  color: #05882c;
+  margin-left: 4px;
+  font-weight: 700
+
+}
+
+hr{
+    margin: 0.2rem 0;
+   color: #bfbebe;
+}
+
+.buttons button{
+
+  text-transform: uppercase;
+  font-size: 12px;
+  border-radius: 2px;
+}
+body {
+  background-color: #f5f7fa;
+}
+
+.fas.fa-heart:hover {
+  color: #f44336 !important;
+}
+
+.fas.fa-share-alt:hover {
+  color: #0d47a1 !important;
+}
+
+body {
+  background-color: #f5f7fa;
+}
+
+.fas.fa-heart:hover {
+  color: #f44336 !important;
+}
+
+.fas.fa-share-alt:hover {
+  color: #0d47a1 !important;
+}
+input[type=text] {
+  width: 80px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+}
+
+/* When the input field gets focus, change its width to 100% */
+input[type=text]:focus {
+  width: 30%;
+}
+
+
+
+.axtar {
+  display: flex;
+  align-items: right;}
+
+.axtar:hover .input {
+ 
+  width: 300px;
+}
+.axtar .input {
+  background: transparent;
+  border:none;
+  outline: none;
+  width: 0px;
+  font-weight: 500;
+  font-size: 16px;
+  transition: 0.8s;
+  
+}
+
+.axtar .btn .fas {
+  color: brown;
+}
+
+
